@@ -1,2 +1,2 @@
 # pc-info-script
-Short script to get PC information and installed software. Windows only.
+Short PowerShell script to get PC information and installed software. Windows only.
